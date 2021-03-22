@@ -1,0 +1,50 @@
+==== bLCGT Layout Information ====
+
+------------------ ROCs ------------------------------
+ITM ROC = 1900.0m
+ETM ROC = 1900.0m
+PRM ROC = 458.12851948047114m
+SRM ROC = 458.1285194807509m
+PR2 ROC = -3.0764084714992004m
+SR2 ROC = -2.9871800773091026m
+PR3 ROC = 24.91648387080114m
+SR3 ROC = 24.91648387080114m
+PRC Mode Matching = (0.9999816749667912, 0.9998184795145159, 0.9998922785359381)
+SRC Mode Matching = (0.9999816948404022, 0.9997262465342427, 0.9998201801888397)
+---------------- Wedge Angles -----------------
+BS wedge = -0.08deg
+ITMX wedge = -0.025deg
+ITMY wedge = -0.025deg
+---------------- Incident Angles -----------------
+PR2 incident angle = 0.5825214470983285deg
+PR3 incident angle = 0.6860442133720915deg
+BS incident angle = 44.96837688826733deg
+---------------- Beam Spot Sizes -----------------
+ITM Spot Size = 35.3004705933891mm
+ETM Spot Size = 35.3004705933891mm
+PRM Spot Size = 4.45708667362076mm
+PR2 Spot Size = 4.457086673629569mm
+PR3 Spot Size = 36.63920799094637mm
+SRM Spot Size = 4.3078651464396325mm
+SR2 Spot Size = 4.327579062032751mm
+SR3 Spot Size = 36.66622383480938mm
+---------------- Gouy Phases -----------------
+PRC Gouy Phase X = 16.590904995890764deg
+PRC Gouy Phase Y = 16.409095004108195deg
+SRC Gouy Phase X = 17.60568622796406deg
+SRC Gouy Phase Y = 17.39431389159057deg
+
+------------------ Optical Length ------------------------------
+Lp1 = 14.761488360922936m
+Lp2 = 11.0660636313137m
+Lp3 = 15.763775996118184m
+Lmx = 26.6649254237837m
+Lmy = 23.335074576216527m
+Ls1 = 14.741223667930456m
+Ls2 = 11.111504884724809m
+Ls3 = 15.738599435699502m
+dLprc = 2.842170943040401e-14m
+dLsrc = 8.526512829121202e-14m
+=============================
+
+
